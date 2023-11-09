@@ -1,11 +1,11 @@
 ﻿  Source.cpp
 C:\Developer\Project-Tetris\TestProject\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Developer\Project-Tetris\TestProject\Source.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Developer\Project-Tetris\TestProject\Source.cpp(66,24): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Developer\Project-Tetris\TestProject\Source.cpp(88,55): warning C4305: '=': truncation from 'double' to 'float'
-C:\Developer\Project-Tetris\TestProject\Source.cpp(148,31): warning C4305: '=': truncation from 'double' to 'float'
-C:\Developer\Project-Tetris\TestProject\Source.cpp(160,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Developer\Project-Tetris\TestProject\Source.cpp(160,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Developer\Project-Tetris\TestProject\Source.cpp(167,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Developer\Project-Tetris\TestProject\Source.cpp(167,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developer\Project-Tetris\TestProject\Source.cpp(68,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Developer\Project-Tetris\TestProject\Source.cpp(90,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Developer\Project-Tetris\TestProject\Source.cpp(150,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Developer\Project-Tetris\TestProject\Source.cpp(163,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developer\Project-Tetris\TestProject\Source.cpp(163,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developer\Project-Tetris\TestProject\Source.cpp(170,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Developer\Project-Tetris\TestProject\Source.cpp(170,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   TestProject.vcxproj -> C:\Developer\Project-Tetris\x64\Debug\TestProject.exe
