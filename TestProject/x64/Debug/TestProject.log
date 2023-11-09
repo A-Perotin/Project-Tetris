@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(65,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(87,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(148,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(160,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(160,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(167,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\apero\source\repos\TestProject\TestProject\Source.cpp(167,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TestProject.vcxproj -> C:\Users\apero\source\repos\TestProject\x64\Debug\TestProject.exe
