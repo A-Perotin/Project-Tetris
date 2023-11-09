@@ -3,7 +3,7 @@
 #include <sstream>;
 using namespace sf;
 
-const int M = 20;
+const int M = 24;
 const int N = 10;
 
 int field[M][N] = {0};
@@ -37,9 +37,10 @@ int main()
 
 	RenderWindow window(VideoMode(640, 960), "Tetris!");
 
-	Texture t, background;
+	Texture t, background, grid;
 	t.loadFromFile("resources/images/Tetris_SFML_TileSet_Test.png");
 	background.loadFromFile("resources/images/tetris_bg.png");
+	grid.loadFromFile("");
 
 	Sprite s(t);
 	Sprite s2(background);
