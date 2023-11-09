@@ -40,13 +40,15 @@ int main()
 	Texture t, background, grid;
 	t.loadFromFile("resources/images/Tetris_SFML_TileSet_Test.png");
 	background.loadFromFile("resources/images/tetris_bg.png");
-	grid.loadFromFile("");
+	grid.loadFromFile("resources/images/Grid_Test.png");
 
 	Sprite s(t);
 	Sprite s2(background);
+	Sprite s3(grid);
 
 	s.setTextureRect(IntRect(0, 0, 32, 32));
 	s2.setTextureRect(IntRect(0, 0, 640, 960));
+	s3.setTextureRect(IntRect(0,0,320,768));
 
 	Font f;
 	f.loadFromFile("resources/fonts/Digital.ttf");
@@ -151,6 +153,7 @@ int main()
 	//////draw//////
 	window.clear(Color::White);
 	window.draw(s2);
+	window.draw(s3);
 
 	for (int i=0; i < M; i++)
 		for (int j=0;j < N;j++)

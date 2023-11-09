@@ -8,5 +8,4 @@ C:\Developer\Project-Tetris\TestProject\Source.cpp(160,28): warning C4244: 'argu
 C:\Developer\Project-Tetris\TestProject\Source.cpp(160,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 C:\Developer\Project-Tetris\TestProject\Source.cpp(167,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 C:\Developer\Project-Tetris\TestProject\Source.cpp(167,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  LINK : C:\Developer\Project-Tetris\x64\Debug\TestProject.exe not found or not built by the last incremental link; performing full link
   TestProject.vcxproj -> C:\Developer\Project-Tetris\x64\Debug\TestProject.exe
