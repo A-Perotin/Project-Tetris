@@ -1,5 +1,5 @@
-#include "SFML/Graphics.hpp"
-#include "time.h"
+#include <SFML/Graphics.hpp>
+#include <time.h>
 #include <sstream>;
 using namespace sf;
 
